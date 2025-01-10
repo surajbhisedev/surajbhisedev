@@ -11,6 +11,10 @@
 
 - 🌱 I’m currently learning **Web Development**
 
+- 🤝 I’m looking for help with **react**
+
+- 👨‍💻 All of my projects are available at [https://myportfolio-b82c0.web.app/](https://myportfolio-b82c0.web.app/)
+
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **surajbhise.dev@gmail.com**
